@@ -1,2 +1,2 @@
 # 20141031.icu-assets
-photo / video 
+photo / video of hexo
